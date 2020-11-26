@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_instantnoodle.mk
+    $(LOCAL_DIR)/carbon_instantnoodle.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_instantnoodle-user \
-    lineage_instantnoodle-userdebug \
-    lineage_instantnoodle-eng
+    carbon_instantnoodle-user \
+    carbon_instantnoodle-userdebug \
+    carbon_instantnoodle-eng
